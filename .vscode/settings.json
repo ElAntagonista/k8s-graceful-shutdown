@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/apps/v1@deployment+v1@service+networking.k8s.io/v1@ingress": "file:///Users/kmembe/Documents/repos/others/test-nginx/k8s.yaml"
+    }
+}
